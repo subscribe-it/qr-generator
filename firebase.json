@@ -1,0 +1,11 @@
+{
+  "hosting": [
+    {
+      "target": "qr-code-generator",
+      "source": ".",
+      "frameworksBackend": {
+        "region": "europe-west1"
+      }
+    }
+  ]
+}
